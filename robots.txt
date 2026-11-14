@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# DEPLOY STEP: Domain prüfen
+Sitemap: https://www.mueggelseepension.de/sitemap.xml
